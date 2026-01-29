@@ -1,3 +1,3 @@
 # abcd
 This is my first program
-Author- Suraksha
+Author- Suraksha F Mummigatti
